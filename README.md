@@ -17,7 +17,7 @@
       alt="yigitk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
