@@ -3,7 +3,7 @@
 </p>
 
 
-- :computer: I love coding, researching and challenging.
+- :computer: I love coding, researching and challenging
 - :muscle: I’m addicted to learning and growing every day
 
 
