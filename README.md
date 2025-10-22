@@ -17,7 +17,7 @@
       alt="yigitk" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages and Databases:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -39,6 +39,9 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" />
+     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgres"
       width="40" height="40" />
 </p>
 
