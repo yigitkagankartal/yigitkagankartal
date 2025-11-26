@@ -80,13 +80,4 @@
      <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
       alt="github" width="40" height="40" />
-
- 
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=hsynalv" height="150" alt="languages graph"  />
-</div>
-
-###
 </p>
